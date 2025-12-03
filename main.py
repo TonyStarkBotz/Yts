@@ -2,8 +2,8 @@ import feedparser
 import telebot
 import time
 
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHANNEL = "@yourchannelusername"
+BOT_TOKEN = "8140926298:AAE1yrsch4PScUK_JGEvdXXjocRd8cWVxss"
+CHANNEL = "-1002504830239"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
